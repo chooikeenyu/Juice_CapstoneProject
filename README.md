@@ -5,7 +5,7 @@ Data Science Capstone Project
 ### SDG 3 Ensure healthy lives and promote well-being for all at all ages 
 ![](/images/heartdisease_mdata.png)
 
-Retrived from https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=401&bul_id=QTU5T0dKQ1g4MHYxd3ZpMzhEMzdRdz09&menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09 
+Retrived from [DOSM Malaysia](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=401&bul_id=QTU5T0dKQ1g4MHYxd3ZpMzhEMzdRdz09&menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09)
 
 Heart disease is a fatal human disease, rapidly increases globally in both developed and undeveloped countries and consequently, causes death. According to the World Health Organization(WHO), heart disease is the number 1 cause of death globally, taking an estimated 17.9 million lives each year, representing 31% of all global deaths. Ischaemic heart disease is the top cause of death in Malaysia, ischaemic heart disease was also recorded as the principal causes of death in Australia(11.1%) and United States(23.1%)(FMT 2020). The most common symptoms of heart disease include physical body weakness, shortness of breath, feet swollen, and weariness with associated signs, etc. The risk of heart disease may be increased by the lifestyle of a person like smoking, unhealthy diet, high cholesterol level, high blood pressure, deficiency of exercise and fitness, etc. Thus, our team decides to work on this topic and determine the knowledge, patterns and relationship associated with heart disease using the heart disease dataset which is retrieved from the internet. By the aid of Machine Learning, we can create a model to do the early detection and treatment of heart disease which will possibly reduce the death rate of heart disease. 
 
