@@ -58,23 +58,23 @@ This is the unprocessed dataset of heart disease which contains 2980 rows and 1 
 
 1) **Volume**  
 
-The dataset we use contains 2980 rows. It can be considered as a large amount of data.  
+	The dataset we use contains 2980 rows. It can be considered as a large amount of data.  
 
 2) **Velocity** 
 
-Every year, the heart disease has the highest number of deaths and increases so far resulting in the data increases. 
+	Every year, the heart disease has the highest number of deaths and increases so far resulting in the data increases. 
 
 3) **Variety** 
 
-The dataset is an unstructured data which is haven’t been processed yet. The dataset also comes from different countries such as United States, Hungary and Switzerland.  
+	The dataset is an unstructured data which is haven’t been processed yet. The dataset also comes from different countries such as United States, Hungary and Switzerland.  
 
 4) **Veracity** 
 
-The dataset contains large number of data which is sometimes get messy and bad quality. The dataset also contains 75 features which have different dimension. The data in dataset is comes from trustworthy sources which are either from hospital or institute. 
+	The dataset contains large number of data which is sometimes get messy and bad quality. The dataset also contains 75 features which have different dimension. The data in 			dataset is comes from trustworthy sources which are either from hospital or institute. 
 
 5) **Value** 
 
-At the beginning, raw data may not helpful to the stakeholder or the related organization. However, after the data has been cleaned and processed, it might bring some useful value and insight about heart disease. Then, we are able create a model to predict heart disease using the interesting information and pattern found. 
+	At the beginning, raw data may not helpful to the stakeholder or the related organization. However, after the data has been cleaned and processed, it might bring some useful 	value and insight about heart disease. Then, we are able create a model to predict heart disease using the interesting information and pattern found. 
 
 ## References 
 
