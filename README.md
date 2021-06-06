@@ -48,7 +48,7 @@ Heart disease is a fatal human disease, rapidly increases globally in both devel
 
 ## Data sources 
 
-[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/heart+disease), our dataset is retrieved from UCI Machine Learning Repository. 
+[Heart Disease data source](https://archive.ics.uci.edu/ml/datasets/heart+disease), our dataset is retrieved from UCI Machine Learning Repository. 
 
 ![](/images/pandas_datarow.png)
 
