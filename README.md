@@ -3,7 +3,7 @@ Data Science Capstone Project
 
 ## CP-Task 1
 ### SDG 3 Ensure healthy lives and promote well-being for all at all ages 
-![](https://github.com/chooikeenyu/Juice_CapstoneProject/blob/main/images/heartdisease_mdata.png)
+![](/images/heartdisease_mdata.png)
 
 Retrived from https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=401&bul_id=QTU5T0dKQ1g4MHYxd3ZpMzhEMzdRdz09&menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09 
 
@@ -50,7 +50,7 @@ Heart disease is a fatal human disease, rapidly increases globally in both devel
 
 https://archive.ics.uci.edu/ml/datasets/heart+disease, our dataset is retrieved from UCI Machine Learning Repository. 
 
-![](https://github.com/chooikeenyu/Juice_CapstoneProject/blob/main/images/pandas_datarow.png)
+![](/images/pandas_datarow.png)
 
 This is the unprocessed dataset of heart disease which contains 2980 rows and 1 column. From the figure above, we can visualize that each row contains different number of features. 
 
