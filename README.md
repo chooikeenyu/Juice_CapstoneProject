@@ -115,66 +115,6 @@ data
 </div>
 
 
-<div class="output_subarea output_html rendered_html output_result" dir="auto"><div>
-
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>0</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>1 0 63 1 -9 -9 -9</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>-9 1 145 1 233 -9 50 20</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>1 -9 1 2 2 3 81 0</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>0 0 0 0 1 10.5 6 13</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>150 60 190 90 145 85 0 0</td>
-    </tr>
-    <tr>
-      <th>...</th>
-      <td>...</td>
-    </tr>
-    <tr>
-      <th>2975</th>
-      <td>1 888 -9 4016 8216 8216 788 0 -9 -9 -9</td>
-    </tr>
-    <tr>
-      <th>2976</th>
-      <td>-0 0 0 1 9 -9 130 80 0 130 80 0 11</td>
-    </tr>
-    <tr>
-      <th>2977</th>
-      <td>-9 3 1h9 1 -9 -9 -9</td>
-    </tr>
-    <tr>
-      <th>2978</th>
-      <td>-9 3 -9 -9 -9</td>
-    </tr>
-    <tr>
-      <th>2979</th>
-      <td>-9 -9 -9 3 -9 -4 1 1</td>
-    </tr>
-  </tbody>
-</table>
-<p>2980 rows × 1 columns</p>
-</div></div>
-
-
 This is the unprocessed dataset of heart disease which contains 2980 rows and 1 column. From the figure above, we can visualize that each row contains different number of features. 
 
 **(Elements 5V)** 
