@@ -1,4 +1,4 @@
-# Juice_CapstoneProject
+# Juice_CapstoneProject - Heart Disease Features In Wearable Device
 Data Science Capstone Project
 
 ## CP-Task 1
@@ -7,7 +7,10 @@ Data Science Capstone Project
 
 Retrived from [DOSM Malaysia](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=401&bul_id=QTU5T0dKQ1g4MHYxd3ZpMzhEMzdRdz09&menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09)
 
-Heart disease is a fatal human disease, rapidly increases globally in both developed and undeveloped countries and consequently, causes death. According to the World Health Organization(WHO), heart disease is the number 1 cause of death globally, taking an estimated 17.9 million lives each year, representing 31% of all global deaths. Ischaemic heart disease is the top cause of death in Malaysia, ischaemic heart disease was also recorded as the principal causes of death in Australia(11.1%) and United States(23.1%)(FMT 2020). The most common symptoms of heart disease include physical body weakness, shortness of breath, feet swollen, and weariness with associated signs, etc. The risk of heart disease may be increased by the lifestyle of a person like smoking, unhealthy diet, high cholesterol level, high blood pressure, deficiency of exercise and fitness, etc. Thus, our team decides to work on this topic and determine the knowledge, patterns and relationship associated with heart disease using the heart disease dataset which is retrieved from the internet. By the aid of Machine Learning, we can create a model to do the early detection and treatment of heart disease which will possibly reduce the death rate of heart disease. 
+Heart disease is a fatal human disease, rapidly increases globally in both developed and undeveloped countries and consequently, causes death. According to the World Health Organization(WHO), heart disease is the number 1 cause of death globally, taking an estimated 17.9 million lives each year, representing 31% of all global deaths. Ischaemic heart disease is the top cause of death in Malaysia, ischaemic heart disease was also recorded as the principal causes of death in Australia(11.1%) and United States(23.1%)(FMT 2020). The most common symptoms of heart disease include physical body weakness, shortness of breath, feet swollen, and weariness with associated signs, etc. The risk of heart disease may be increased by the lifestyle of a person like smoking, unhealthy diet, high cholesterol level, high blood pressure, deficiency of exercise and fitness, etc. Thus, our team decides to work on this topic and determine the knowledge, patterns and relationship associated with heart disease using the heart disease dataset which is retrieved from the internet. 
+
+However, we’re not fully focusing on the detection of the heart disease in the normal medical way, but focusing about finding the relevant features that are suitable in wearable devices to give early detection of heart disease and alert the user. The features that we found later may give a reference to the industry that are implementing the heart disease detection in the wearable device and the system can give some risk analysis showing the probability of user getting heart disease. By the aid of Machine Learning, we can create a model to do the early detection and treatment of heart disease which will possibly reduce the death rate of heart disease. 
+
 
 ## Goals
 
@@ -23,12 +26,13 @@ Heart disease is a fatal human disease, rapidly increases globally in both devel
 
 1) From the data, we want to find the relationship between the medical factors related to heart disease. 
 
-2) Has a higher chance to intervene much earlier and head off hospitalizations 
+2) Find the features that is suited for wearable device. 
 
-3) To create a model to predict heart disease. 
+3) Has a higher chance to intervene much earlier and head off hospitalizations. 
+
+4) To create a model to predict heart disease. 
 
  
-
 ## Questions 
 
 1) Does the prediction of heart disease improve the health care system? 
@@ -37,6 +41,7 @@ Heart disease is a fatal human disease, rapidly increases globally in both devel
 
 3) Does gender affect the risk of getting heart disease? 
 
+4) Does the features can be suited for the wearable device use case? 
  
 
 ## Success and its measurement
